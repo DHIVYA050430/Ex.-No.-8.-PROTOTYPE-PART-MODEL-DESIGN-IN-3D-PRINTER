@@ -46,8 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Uploading empd exercise 3.png…]()
-
+![IMAGE 4 6](https://github.com/DHIVYA050430/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147141546/7d0ca21d-eb3c-4b1e-b06c-5a5becc9a6a3)
 
 ### Name: DIVYA E
 ### Register Number:212223230050
